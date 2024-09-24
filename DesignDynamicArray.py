@@ -38,6 +38,7 @@
 
 # Note: Python lists are dynamic arrays by default,
 # but this is an example of what's going on under the hood.
+
 class DynamicArray:
     
     def __init__(self, capacity: int):
